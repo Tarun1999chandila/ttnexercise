@@ -1,0 +1,9 @@
+.container {
+  max-width: 450px;
+  width: 100%;
+  margin: 0 auto;
+  position: relative;
+  align-items: center;
+  border-color: #c1c4c2;
+  border-style: solid;
+}
